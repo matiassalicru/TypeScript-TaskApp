@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/TypeScript-TaskApp/static/js/main.66011f70.chunk.js",
+    "main.js.map": "/TypeScript-TaskApp/static/js/main.66011f70.chunk.js.map",
+    "runtime-main.js": "/TypeScript-TaskApp/static/js/runtime-main.7b90a277.js",
+    "runtime-main.js.map": "/TypeScript-TaskApp/static/js/runtime-main.7b90a277.js.map",
+    "static/css/2.541a6114.chunk.css": "/TypeScript-TaskApp/static/css/2.541a6114.chunk.css",
+    "static/js/2.64767e6c.chunk.js": "/TypeScript-TaskApp/static/js/2.64767e6c.chunk.js",
+    "static/js/2.64767e6c.chunk.js.map": "/TypeScript-TaskApp/static/js/2.64767e6c.chunk.js.map",
+    "index.html": "/TypeScript-TaskApp/index.html",
+    "static/css/2.541a6114.chunk.css.map": "/TypeScript-TaskApp/static/css/2.541a6114.chunk.css.map",
+    "static/js/2.64767e6c.chunk.js.LICENSE.txt": "/TypeScript-TaskApp/static/js/2.64767e6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b90a277.js",
+    "static/css/2.541a6114.chunk.css",
+    "static/js/2.64767e6c.chunk.js",
+    "static/js/main.66011f70.chunk.js"
+  ]
+}
